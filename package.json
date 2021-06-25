@@ -1,0 +1,22 @@
+{
+  "name": "bopify-react",
+  "version": "1.0.0",
+  "description": "Spotify But Bop-ier",
+  "main": "index.js",
+  "scripts": {
+    "pull": "echo add submodule pull here",
+    "update": "echo add submodule update here",
+    "install": "cd client && yarn install && cd ../server && yarn install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornguyen75/bopify-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victornguyen75/bopify-react/issues"
+  },
+  "homepage": "https://github.com/victornguyen75/bopify-react#readme",
+  "dependencies": {}
+}
