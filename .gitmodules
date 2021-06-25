@@ -1,6 +1,6 @@
 [submodule "client"]
-    path = client
-    url = https://github.com/victornguyen75/bopify-react-client
+	path = client
+	url = https://github.com/victornguyen75/bopify-react-client
 [submodule "server"]
     path = server
     url = https://github.com/victornguyen75/bopify-react-server
