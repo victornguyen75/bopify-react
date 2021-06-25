@@ -1,0 +1,6 @@
+[submodule "client"]
+    path = client
+    url = git@github.com:victornguyen75/bopyify-react-client
+[submodule "server"]
+    path = server
+    url = git@github.com:victornguyen75/bopyify-react-server
