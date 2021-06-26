@@ -38,4 +38,5 @@ CLIENT_SECRET=your_own_client_secret_from_the_spotify_API_and_docs
 2. Run `npm start` or `yarn start` in the terminal
 3. In a separate terminal, navigate to `/server`
 4. Run `npm start` or `yarn start` in the terminal
-5. If you wish to debug the `/server`, run `npm run start:dev` or `yarn start:dev` in the terminal
+5. Open a new tab on your browser for `localhost:3000`
+6. If you wish to debug the `/server`, run `npm run start:dev` or `yarn start:dev` in the terminal
