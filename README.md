@@ -1,6 +1,7 @@
 # Bopify (ReactJS)
 
 Spotify But Bop-ier
+⚠️ You will need your own client id from the Spotify API and docs. ⚠️
 
 ## Set Up
 
@@ -19,7 +20,7 @@ Spotify But Bop-ier
 Your `/client.env` file should contain:
 
 ```
-REACT_APP_CLIENT_ID=your_own_client_id_from_the_spotify_API_and_docs
+REACT_APP_CLIENT_ID=your_own_client_id_from_the_Spotify_API_and_docs
 ```
 
 ### Server
