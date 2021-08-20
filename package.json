@@ -4,6 +4,7 @@
   "description": "Spotify But Bop-ier",
   "main": "index.js",
   "scripts": {
+    "push": "git push --recurse-submodules=on-demand",
     "pull": "git submodule update --init --recursive",
     "update": "git submodule update --recursive --remote",
     "install": "cd client && yarn install && cd ../server && yarn install"
