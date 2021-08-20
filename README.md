@@ -2,7 +2,7 @@
 
 Spotify But Bop-ier
 
-⚠️ You will need your own client id from the Spotify API and docs. ⚠️
+⚠️ You will need your own Client ID and Client Secret from the Spotify API and docs. ⚠️
 
 ## Set Up
 
@@ -41,4 +41,4 @@ CLIENT_SECRET=your_own_client_secret_from_the_spotify_API_and_docs
 3. In a separate terminal, navigate to `/server`
 4. Run `npm start` or `yarn start` in the terminal
 5. Open a new tab on your browser for `localhost:3000`
-6. If you wish to debug the `/server`, run `npm run start:dev` or `yarn start:dev` in the terminal
+6. If you wish to debug the `/server`, run `npm run dev` or `yarn dev` in the terminal
