@@ -2,7 +2,13 @@
 
 Spotify But Bop-ier
 
-⚠️ You will need your own Client ID and Client Secret from the Spotify API and docs. ⚠️
+## Requirements
+
+You will need your own:
+
+- Client ID
+- Client Secret
+- Active Spotify Subscription
 
 ## Set Up
 
@@ -42,3 +48,7 @@ CLIENT_SECRET=your_own_client_secret_from_the_spotify_API_and_docs
 4. Run `npm start` or `yarn start` in the terminal
 5. Open a new tab on your browser for `localhost:3000`
 6. If you wish to debug the `/server`, run `npm run dev` or `yarn dev` in the terminal
+
+## ReactJS vs SvelteJS?
+
+Follow the [discussion](https://github.com/victornguyen75/bopify-svelte/discussions/1) to see how two different Spotify Clone Applications compare between ReactJS and SvelteJS.
